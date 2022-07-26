@@ -1,0 +1,16 @@
+
+
+
+{
+"1" : {
+  "startTime" : "1658867660",
+  "endTime" : "1658868660",
+  "supportedAddresses" : ["200 W 53rd St, New York, NY 10019, United States", "300 W 53rd St, New York, NY 10019, United States"]
+},
+"2" : {
+"startTime" : "1658967660",
+"endTime" : "1658997660",
+"supportedAddresses" : ["200 W 53rd St, New York, NY 10019, United States"]
+}
+}
+
